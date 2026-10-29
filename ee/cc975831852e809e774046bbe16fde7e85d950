@@ -1,0 +1,21 @@
+backend/api/routers/openai_compat.py
+  s_cc1544a2e84b3a::t_8557b93766a330 38,911,914-915
+backend/tests/test_openai_compat_non_finite_scores.py
+  s_cc1544a2e84b3a::t_2e730460ddc94d 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eecc975831852e809e774046bbe16fde7e85d950",
+  "prompts": {},
+  "sessions": {
+    "s_cc1544a2e84b3a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ae71c72d-9fd3-4138-97a5-e9817bb0ae3f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Filip Kalný <filip.kalny@gooddata.com>"
+    }
+  }
+}
