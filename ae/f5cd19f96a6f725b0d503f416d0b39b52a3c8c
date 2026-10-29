@@ -1,0 +1,19 @@
+changelog.d/3678.fixed.md
+  s_255b1971e5251a::t_2747bfc612391a 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aef5cd19f96a6f725b0d503f416d0b39b52a3c8c",
+  "prompts": {},
+  "sessions": {
+    "s_255b1971e5251a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a187ae-09be-7370-8794-3362e08d1286",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Filip Kalný <filip.kalny@gooddata.com>"
+    }
+  }
+}
